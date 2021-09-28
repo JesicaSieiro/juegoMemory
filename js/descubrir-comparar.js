@@ -44,7 +44,7 @@ function descubrir() {
          //ejecutamos la funcion despues de un segundo
          //para tener tiempo de ver que ganamos
 
-         setTimeout(finalizar(),2500);
+         setTimeout(finalizar(),2000);
      }
    
 }
